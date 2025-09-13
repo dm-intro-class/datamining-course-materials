@@ -21,8 +21,7 @@ It focuses on practical algorithms and methods that can be implemented in Python
 - Support Vector Machine (SVM)  
 - Linear Regression  
 - Gradient Descent  
-- Single-Layer Neural Networks (Perceptron)  
-- Multi-Layer Neural Networks (Feedforward)  
+- Neural Networks (Perceptron)  
 - Regularization  
 
 ### Chapter 3: Clustering and Association Rule Mining
