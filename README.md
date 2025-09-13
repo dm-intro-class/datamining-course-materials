@@ -25,15 +25,13 @@ It focuses on practical algorithms and methods that can be implemented in Python
 - Multi-Layer Neural Networks (Feedforward)  
 - Basics of Classical Neural Network Design  
 - Regularization  
-- Evaluation Metrics  
 
 ### Chapter 3: Clustering and Association Rule Mining
 - K-Means  
 - K-Medoids  
 - Hierarchical Clustering (Agglomerative, Divisive)  
 - Density-Based Clustering (DBSCAN, OPTICS)  
-- Frequent Pattern Mining (Apriori, Eclat, FP-Growth)  
-- Association Mining  
+- Frequent Pattern Mining (Apriori, Eclat)  
 
 ---
 
