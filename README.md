@@ -23,7 +23,6 @@ It focuses on practical algorithms and methods that can be implemented in Python
 - Gradient Descent  
 - Single-Layer Neural Networks (Perceptron)  
 - Multi-Layer Neural Networks (Feedforward)  
-- Basics of Classical Neural Network Design  
 - Regularization  
 
 ### Chapter 3: Clustering and Association Rule Mining
